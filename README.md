@@ -1,2 +1,2 @@
-# tailwind_css_repo
+# tailwind_css
 Notes and small projects on tailwind css
